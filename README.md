@@ -45,9 +45,9 @@ Jupyter Notebook
 '''
 project/
 ├── data/
-│   ├── 고령인구비율_시도_시_군_구__20102024.xlsx
-│   ├── 인구총 조사 청년비율 20152024.xlsx
-│   └── 인구밀도_인구주택총 2000~2023.xlsx
+│   ├── file1.xlsx
+│   ├── file2.xlsx
+│   └── file3.xlsx
 ├── notebooks/
 │   └── analysis.ipynb
 ├── images/
