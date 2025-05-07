@@ -42,6 +42,7 @@ Matplotlib
 Folium
 Jupyter Notebook
 
+```
 project/
 ├── data/
 │   ├── 고령인구비율_시도_시_군_구__20102024.xlsx
@@ -52,6 +53,8 @@ project/
 ├── images/
 │   └── visualization.png
 └── README.md
+```
+
 
 
 📈 주요 결과
