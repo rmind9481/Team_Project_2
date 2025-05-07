@@ -37,29 +37,23 @@
 
 🛠 사용 기술
 Python
-
 Pandas
-
 Matplotlib
-
 Folium
-
 Jupyter Notebook
 
-📁 프로젝트 구조
-yaml
-복사
-편집
+'''
 project/
 ├── data/
-│   ├── 고령인구비율_시도_시_군_구__2010~2024.xlsx
-│   ├── 인구총 조사 청년비율 2015~2024.xlsx
+│   ├── 고령인구비율_시도_시_군_구__20102024.xlsx
+│   ├── 인구총 조사 청년비율 20152024.xlsx
 │   └── 인구밀도_인구주택총 2000~2023.xlsx
 ├── notebooks/
 │   └── analysis.ipynb
 ├── images/
 │   └── visualization.png
 └── README.md
+'''
 📈 주요 결과
 대구 지역의 고령 인구 비율은 지속적으로 증가하고 있으며, 이는 지역 경제에 부정적인 영향을 미칠 수 있습니다.
 
